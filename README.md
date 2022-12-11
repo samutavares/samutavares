@@ -20,7 +20,7 @@
 
 
 ##
-![Snake animation](https://github.com/seu-usuário-aqui/samutavares/blob/output/github-contribution-grid-snake.svg)/>
+![Snake animation](https://github.com/samutavares/samutavares/blob/output/github-contribution-grid-snake.svg)/>
 
 ##
 ### Contacts:
