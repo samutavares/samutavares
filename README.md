@@ -1,16 +1,23 @@
 ## Hello, I am Samuel Tavares! 
 ### Welcome to my GitHub! 👋
 
-- 📚 Bachelor's of Electronics and Telecommunications Engineer at Universidade Federal de Uberlândia.
-- 💻 Data Engineer at Gamers Club
+- 📚 Bachelor's of Electronics and Telecommunications Engineer and Master's in Computer Science for UFU.
+- 💻 Senior Data Engineer at Qubika
 - 🔧 Currently Working with Python,SQL, AWS and Pyspark.
 - 👨‍💻 Studying Machine Learning and how to build clean APIS.
 
 ##
 
 <h3 align="left">Languages and Technologies:</h3>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" width="40" height="40"/> </a></a> <a href="https://docs.microsoft.com/pt-br/cpp/?view=msvc-160" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a> <a href="https://www.mathworks.com/help/matlab/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" width="40" height="40"/> </a> <a href="https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html" target="_blank">   <img src="https://downloadly.net/wp-content/uploads/2020/03/Advanced-Design-System.png" alt="ADS" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
- </a> 
+<div align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+</div>
 
 
 
