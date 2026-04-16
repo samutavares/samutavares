@@ -27,8 +27,7 @@
 
 
 ##
-![Snake animation](https://github.com/samutavares/samutavares/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/samutavares/samutavares/output/github-contribution-grid-snake.svg)
 ##
 ### Contacts:
 <div align="center"> 
